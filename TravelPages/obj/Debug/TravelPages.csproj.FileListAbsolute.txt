@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\TravelPages.dll
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\TravelPages.pdb
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\WebDriver.Support.dll
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\obj\Debug\TravelPages.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\obj\Debug\TravelPages.csproj.CopyComplete
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\obj\Debug\TravelPages.dll
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\obj\Debug\TravelPages.pdb
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\FluentAssertions.dll
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\FluentAssertions.pdb
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\FluentAssertions.xml
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\repos\TravelSeleniumUI\TravelPages\obj\Debug\TravelPages.csprojAssemblyReference.cache

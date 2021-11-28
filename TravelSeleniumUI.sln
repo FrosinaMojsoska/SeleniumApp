@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelSeleniumUI", "TravelSeleniumUI\TravelSeleniumUI.csproj", "{B51A417F-62BC-44FF-A5FB-E3630C127D74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelPages", "TravelPages\TravelPages.csproj", "{0937B2D2-B244-4533-AED5-A98501555533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51A417F-62BC-44FF-A5FB-E3630C127D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51A417F-62BC-44FF-A5FB-E3630C127D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51A417F-62BC-44FF-A5FB-E3630C127D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51A417F-62BC-44FF-A5FB-E3630C127D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0937B2D2-B244-4533-AED5-A98501555533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0937B2D2-B244-4533-AED5-A98501555533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0937B2D2-B244-4533-AED5-A98501555533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0937B2D2-B244-4533-AED5-A98501555533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC75544-8F92-49CE-A184-77DC610CAD8D}
+	EndGlobalSection
+EndGlobal
